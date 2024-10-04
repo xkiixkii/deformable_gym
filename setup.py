@@ -20,5 +20,6 @@ if __name__ == "__main__":
             "numpy>=1.23.5,<2.0.0",
             "pytransform3d",
             "mujoco>=3.2.0",
+            "imageio >= 2.34.1",
         ],
     )
